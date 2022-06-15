@@ -1,5 +1,5 @@
-# The Software Process
-Quickly search for information about The Software Process. Better understanding and knowledge retention.
+# COMS4507 - Advanced Topics in Security
+Quickly search for information about the topic. Better understanding and knowledge retention.
 
 ![images/usage.png](https://raw.githubusercontent.com/esxr/the-software-process/master/images/usage.png)
 
@@ -8,7 +8,7 @@ Quickly search for information about The Software Process. Better understanding 
 - Download **Obsidian.md**
 - Open **Obsidian**. Select **open folder as vault** and open this repo
 - **!! Turn Off Safe Mode** so that community plugins can be used
-- Search **CSSE 3012 - The Software Process** to open the main page.
+- Search **COMS4507 - Advanced Topics in Security** to open the main page.
 ___
 
 ### Useful commands
