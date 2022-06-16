@@ -1,5 +1,14 @@
 #coms4507 
 
+___
+### Resources
+These are the best resources to get data from
+- brilliant.org
+- medium.com
+- IBM docs
+
+___
+
 ### Subject Topics
 ___
 - basic cryptography
