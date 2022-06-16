@@ -18,7 +18,6 @@ ___
 	- [[Bitcoin Mining Questions]]
 - [[Bitcoin General Questions]]
 - [[Secret Sharing Scheme Questions]]
-	- [[Shamir's Method Questions]]
 - [[Ethereum Questions]]
 
 ___

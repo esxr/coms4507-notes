@@ -9,3 +9,7 @@ ___
 
 ![[Pasted image 20220617050217.png]]
 
+![[Pasted image 20220617050240.png]]
+
+![[Pasted image 20220617050256.png]]
+
