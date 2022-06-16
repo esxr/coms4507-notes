@@ -84,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Past Exam Papers.md",
+                "file": "COMS4507 Exam.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Past Exam Papers.md",
+                "file": "COMS4507 Exam.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,17 +172,17 @@
     "width": 295,
     "collapsed": true
   },
-  "active": "5cde539ff8e717eb",
+  "active": "5b111af766becb15",
   "lastOpenFiles": [
+    "COMS4507 Exam.md",
     "Past Exam Papers.md",
     "Docs/2018 Paper COMS4507.pdf",
     "Docs/2019 Paper COMS4507.pdf",
     "Docs/2020 Paper COMS4507.pdf",
     "Docs/2021 Paper COMS4507.pdf",
-    "COMS4507 Exam.md",
+    "Docs/2017 Paper COMS4507.pdf",
     "Consensus Mechanisms Questions.md",
     "Bitcoin Mining Questions.md",
-    "Blockchain Basic Concepts Questions.md",
-    "Ethereum Questions.md"
+    "Blockchain Basic Concepts Questions.md"
   ]
 }
