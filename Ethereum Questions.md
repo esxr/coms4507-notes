@@ -1,3 +1,4 @@
+#questions
 # [[Ethereum]] Questions
 ___
 ![[Pasted image 20220617051102.png]]

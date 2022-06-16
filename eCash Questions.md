@@ -1,3 +1,4 @@
+#questions
 # Questions On [[eCash]]
 ___
 ![[Pasted image 20220617034240.png]]
@@ -20,13 +21,13 @@ ___
 ___
 ![[Pasted image 20220617034334.png]]
 
-[[proof-of-work]]
+[[Proof-of-Work]]
 [[Computational Puzzles]]
 
 ___
 ![[Pasted image 20220617035059.png]]
 
-[[proof-of-work]]
+[[Proof-of-Work]]
 [[eCash]]
 [[blind signatures]]
 

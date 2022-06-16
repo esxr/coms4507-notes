@@ -1,4 +1,4 @@
-# Blockchain
+# Blockchain Technology
 An implementation of a [[Distributed Ledger Technology (DLT)]]
 ___
 ### Requirements

@@ -1,3 +1,4 @@
+#questions
 # [[Secret Sharing Schemes]] Questions
 ___
 ![[Pasted image 20220617045941.png]]

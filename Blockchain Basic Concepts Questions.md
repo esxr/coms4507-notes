@@ -1,3 +1,4 @@
+#questions
 # [[Blockchain Basic Concepts]] Questions
 ___
 ![[Pasted image 20220617035548.png]]

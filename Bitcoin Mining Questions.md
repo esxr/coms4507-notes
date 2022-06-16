@@ -1,3 +1,4 @@
+#questions
 # [[Bitcoin Mining]] Questions
 ___
 ![[Pasted image 20220617040856.png]]

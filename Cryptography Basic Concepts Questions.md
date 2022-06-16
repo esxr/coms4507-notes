@@ -1,3 +1,4 @@
+#questions
 # [[Cryptography Basic Concepts]] Questions
 ___
 ![[Pasted image 20220617035003.png]]
