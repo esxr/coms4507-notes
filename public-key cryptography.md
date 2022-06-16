@@ -22,4 +22,5 @@ ___
 
 ___
 ### Algorithms
-- Rivest-Shamir-Adelman (RSA) Data Security
+- [[Rivest-Shamir-Adelman (RSA) Algorithm]] 
+	- Create a **mathematically linked** pair of keys

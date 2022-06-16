@@ -41,6 +41,19 @@
             "source": false
           }
         }
+      },
+      {
+        "id": "ee58f3f49754cb46",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Digital Signature Detailed.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
+        }
       }
     ],
     "direction": "vertical"
@@ -97,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Digital Signature.md",
+                "file": "Digital Signature Detailed.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Digital Signature.md",
+                "file": "Digital Signature Detailed.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -185,17 +198,17 @@
     "width": 295,
     "collapsed": true
   },
-  "active": "5dc599b0fe58e16e",
+  "active": "ee58f3f49754cb46",
   "lastOpenFiles": [
+    "Digital Signature Detailed.md",
+    "images/Digital Signature Detailed 2022-06-16 22.22.11.excalidraw.md",
+    "images/Digital Signature Detailed 2022-06-16 22.06.13.excalidraw.md",
     "Digital Signature.md",
+    "Docs/princeton_bitcoin_book.pdf",
+    "Rivest-Shamir-Adelman (RSA) Algorithm.md",
+    "public-key cryptography.md",
     "security basics recap.md",
     "secret-key cryptography.md",
-    "public-key cryptography.md",
-    "Public Key Certificate.md",
-    "COMS4507 Exam.md",
-    "COMS4507 - Advanced Topics in Security.md",
-    "README.md",
-    "COMS4507 exam questions.md",
-    "images/Pasted image 20220616001335.png"
+    "Public Key Certificate.md"
   ]
 }
