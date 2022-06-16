@@ -23,9 +23,7 @@ Almost 100% of the questions are covered in these categories
 	- [[Cryptography Basic Concepts]]
 		- Cryptographic Hash Function
 		- Secret-Key Cryptography
-		- Public-key Cryptography
-			- Digital Signatures
-			- Public-Key Certificates
+		- Public-key Cryptography - **Signatures** and **Certificates**
 
 - [[Blockchain Basic Concepts Questions]] <span style="color: white; background-color: red ; padding-left: 5px; padding-right: 5px; border: 1px solid red;">
 important 
@@ -45,6 +43,8 @@ important
 important 
 </span>
 	- [[Bitcoin Mining]]
+		- proof-of-work
+		- hashcash puzzles
 
 - [[Bitcoin General Questions]] <span style="color: white; background-color: red ; padding-left: 5px; padding-right: 5px; border: 1px solid red;">
 important 
@@ -57,18 +57,12 @@ important
 		- Digital Signature
 
 	- [[Bitcoin Practical Implementation]]
-		- bitcoin network
-		- bitcoin identity/address
-		- bitcoin wallets
+		- bitcoin network - **p2p**
+		- bitcoin identity/address - **wallets**
 		- bitcoin transaction (UXTO)
+			- Blocks
 			- Transaction types
-		- bitcoin scripting language
-			- locking script
-			- unlocking script
-		- blocks
-		- bitcoin mining
-			- proof-of-work
-			- hashcash puzzles
+		- bitcoin scripting language - **locking/unlocking**
 		- bitcoin scalability
 
 - [[Secret Sharing Scheme Questions]]
