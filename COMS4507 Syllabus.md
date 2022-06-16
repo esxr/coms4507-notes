@@ -1,6 +1,7 @@
-# Past Exam Papers COMS4507
+#main
+# COMS4507 Syllabus
 ___
-
+### Past Exam Papers
 [[2017 Paper COMS4507.pdf]]
 [[2018 Paper COMS4507.pdf]]
 [[2019 Paper COMS4507.pdf]]
@@ -15,20 +16,37 @@ Almost 100% of the questions are covered in these categories
 
 
 - [[eCash Questions]]
+	- [[eCash]] - DigiCash - *failed because 3rd party reliance*
 	- [[David Chaum's Paper]]
+
 - [[Cryptography Basic Concepts Questions]]
+	- [[Cryptography Basic Concepts]]
+
 - [[Blockchain Basic Concepts Questions]] <span style="color: white; background-color: red ; padding-left: 5px; padding-right: 5px; border: 1px solid red;">
 important 
 </span>
-	- [[Consensus Mechanisms Questions]] <span style="color: white; background-color: red ; padding-left: 5px; padding-right: 5px; border: 1px solid red;">
+	- [[Distributed Ledger Technology (DLT)]]
+	- [[Blockchain vs DLT]]
+	- [[Blockchain Technology]]
+
+- [[Consensus Mechanisms Questions]] <span style="color: white; background-color: red ; padding-left: 5px; padding-right: 5px; border: 1px solid red;">
 important 
 </span>
-	- [[Bitcoin Mining Questions]] <span style="color: white; background-color: red ; padding-left: 5px; padding-right: 5px; border: 1px solid red;">
+	- [[Consensus Mechanism]]
+		- Sybil attack
+		- Nakamoto consensus
+
+- [[Bitcoin Mining Questions]] <span style="color: white; background-color: red ; padding-left: 5px; padding-right: 5px; border: 1px solid red;">
 important 
 </span>
+	- [[Bitcoin Mining]]
+
 - [[Bitcoin General Questions]] <span style="color: white; background-color: red ; padding-left: 5px; padding-right: 5px; border: 1px solid red;">
 important 
 </span>
+	- [[Bitcoin Building Blocks]]
+	- [[Bitcoin Practical Implementation]]
+
 - [[Secret Sharing Scheme Questions]]
 - [[Ethereum Questions]]
 
@@ -39,5 +57,15 @@ Experimental
 - Secret sharing questions have vanished *(topic removed)*
 - Questions related to **blockchain** and **bitcoin** have become frequent
 - **Solidity** Questions have become frequent
+
+___
+### Resources
+
+**Online**
+These are the best resources to get knowledge from
+- brilliant.org
+- medium.com
+- IBM docs
+- [[princeton_bitcoin_book.pdf]]
 
 ___

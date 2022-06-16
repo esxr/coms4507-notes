@@ -1,5 +1,5 @@
 #questions
-# [[Bitcoin|Bitcoin General]] Questions
+# [[Bitcoin Basics|Bitcoin General]] Questions
 ___
 ![[Pasted image 20220617040949.png]]
 
