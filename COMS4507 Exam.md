@@ -2,11 +2,16 @@
 
 ___
 ### Resources
+
+**Online**
 These are the best resources to get knowledge from
 - brilliant.org
 - medium.com
 - IBM docs
 - [[princeton_bitcoin_book.pdf]]
+
+**Exam Papers**
+[[Past Exam Papers]]
 
 ___
 
@@ -18,14 +23,15 @@ covered
 </span>
 		- basic concepts
 		- [[Cryptographic Hash Function]]
-		- secret key cryptography - OTP, AES
-		- public key cryptography - RSA
-			- signatures
-			- certificates
+		- [[secret-key cryptography]] - OTP, AES
+		- [[public-key cryptography]] - [[RSA (Rivest-Shamir-Adelman) Algorithm|RSA]]
+			- [[Digital Signature|signatures]]
+			- [[Public Key Certificate|certificates]]
 	- network security protocols
 
 - Blockchain and Cryptocurrency
-	- Distributed Ledger Technology (DLT)
+	- [[Distributed Ledger Technology (DLT)]]
+		- [[Blockchain vs DLT]]
 	- Blockchain stack
 		- crypto stack
 		- de-fi stack
