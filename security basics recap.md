@@ -1,5 +1,6 @@
 - **What is the main difference between secret-key and public key cryptography?**
-
+[[secret-key cryptography]]
+[[public-key cryptography]]
  
 - **What is a public-key certificate and what is it for?** 
 
