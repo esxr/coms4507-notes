@@ -3,13 +3,15 @@
 ### Subject Topics
 ___
 - basic cryptography
-	- [[security basics recap]]
-	- basic concepts
-	- hash functions
-	- secret key cryptography - OTP, AES
-	- public key cryptography - RSA
-		- signatures
-		- certificates
+	- [[security basics recap]] <span style="background-color: #cfc ; padding-left: 5px; padding-right: 5px; border: 1px solid green;">
+covered 
+</span>
+		- basic concepts
+		- [[Cryptographic Hash Function]]
+		- secret key cryptography - OTP, AES
+		- public key cryptography - RSA
+			- signatures
+			- certificates
 	- network security protocols
 
 - Blockchain and Cryptocurrency

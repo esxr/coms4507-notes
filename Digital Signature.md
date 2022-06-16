@@ -6,14 +6,21 @@ ___
 
 ___
 ### Target Problem
-- 
+- tampering and impersonation
+	- Assume digital signatures don't exist
+	- "Digital Charlie" pretends to be "Digital Bob"
+	- Forges the signature!
 
 
 ___
-### [[Digital Signature Detailed|Solution]]
+### [[Digital Signature Detailed (Scheme)|Solution]]
+
+[[Digital Signature Detailed (Scheme)]]
 - required properties of solution
 	- only **YOU can make** your signature
 		- **ANYONE can verify** that it is valid
 	- one signature => one document
 
-- uses [[public-key cryptography]]
+- uses [[public-key cryptography]] for making signatures and signing them
+
+___

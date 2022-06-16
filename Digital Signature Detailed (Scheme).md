@@ -1,4 +1,4 @@
-# Digital Signature Detailed
+# Digital Signature Detailed Scheme
 ___
 - required properties of solution
 	- only **YOU can make** your signature
@@ -30,7 +30,7 @@ ___
 
 ___
 ### How to prevent forgery
-- If the **sign** function is a [[One-way Hash Function]]
+- If the **sign** function is a [[Cryptographic Hash Function]]
 	- **OUTPUT** is not dependent on **INPUT**
 	- consequently, **INPUT** cannot be deduced from **OUTPUT**
 
@@ -38,5 +38,15 @@ ___
 
 - If you know `(x1, y1), (x2, y2) ... (xn, yn)
 	- you try to deduce `ya` given `xa` you cannot
+
+**Shouldn't we use a random function?**
+<span style="color: white; background-color: red ; padding-left: 5px; padding-right: 5px; border: 1px solid red;">
+NO 
+</span>
+
+At first glance, it may look like we can use a **random function**.
+But a random function is <span style="background-color: yellow; padding-left: 5px; padding-right: 5px; border: 1px solid black;">
+NOT deterministic 
+</span>, so it doesn't meet the other [[Cryptographic Hash Function#Requirements|requirements of a cryptographic hash function]]
 
 ___
