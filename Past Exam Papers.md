@@ -8,7 +8,11 @@ ___
 [[2021 Paper COMS4507.pdf]]
 
 ___
-### Most common topics
+### Past Exam Question Categories
+<div style="background-color: #cfc ; padding: 10px; border: 1px solid green;">
+Almost 100% of the questions are covered in these categories 
+</div>
+
 
 - [[eCash Questions]]
 	- [[David Chaum's Paper]]
@@ -19,5 +23,10 @@ ___
 - [[Bitcoin General Questions]]
 - [[Secret Sharing Scheme Questions]]
 - [[Ethereum Questions]]
+
+___
+### Past Exam Papers Trends Analysis <span style="background-color: yellow; padding-left: 5px; padding-right: 5px; border: 1px solid black;">
+Experimental 
+</span>
 
 ___

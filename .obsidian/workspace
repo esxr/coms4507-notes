@@ -28,82 +28,6 @@
             "source": false
           }
         }
-      },
-      {
-        "id": "6214be02b407a4dd",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Secret Sharing Scheme Questions.md",
-            "mode": "source",
-            "backlinks": true,
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "d8f5950a3480133c",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Secret Sharing Schemes.md",
-            "mode": "source",
-            "backlinks": true,
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "d21a2ed517ea369b",
-        "type": "leaf",
-        "state": {
-          "type": "pdf",
-          "state": {
-            "file": "Docs/2017 Paper COMS4507.pdf"
-          }
-        }
-      },
-      {
-        "id": "b97635db5de12250",
-        "type": "leaf",
-        "state": {
-          "type": "pdf",
-          "state": {
-            "file": "Docs/2020 Paper COMS4507.pdf"
-          }
-        }
-      },
-      {
-        "id": "2fa25416620b091c",
-        "type": "leaf",
-        "state": {
-          "type": "pdf",
-          "state": {
-            "file": "Docs/2021 Paper COMS4507.pdf"
-          }
-        }
-      },
-      {
-        "id": "d21c934d1922ab11",
-        "type": "leaf",
-        "state": {
-          "type": "pdf",
-          "state": {
-            "file": "Docs/2019 Paper COMS4507.pdf"
-          }
-        }
-      },
-      {
-        "id": "ee894ee01bf8cd50",
-        "type": "leaf",
-        "state": {
-          "type": "pdf",
-          "state": {
-            "file": "Docs/2018 Paper COMS4507.pdf"
-          }
-        }
       }
     ],
     "direction": "vertical"
@@ -160,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Secret Sharing Schemes.md",
+                "file": "Past Exam Papers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -177,7 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Secret Sharing Schemes.md",
+                "file": "Past Exam Papers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -248,17 +172,17 @@
     "width": 295,
     "collapsed": true
   },
-  "active": "d8f5950a3480133c",
+  "active": "5cde539ff8e717eb",
   "lastOpenFiles": [
-    "Secret Sharing Schemes.md",
-    "Secret Sharing Scheme Questions.md",
     "Past Exam Papers.md",
-    "COMS4507 Exam.md",
-    "Docs/2017 Paper COMS4507.pdf",
+    "Consensus Mechanisms Questions.md",
     "Bitcoin Mining Questions.md",
+    "Blockchain Basic Concepts Questions.md",
+    "Docs/2021 Paper COMS4507.pdf",
+    "Ethereum Questions.md",
+    "Ethereum.md",
+    "Secret Sharing Scheme Questions.md",
     "Bitcoin General Questions.md",
-    "Bitcoin.md",
-    "Bitcoin Mining.md",
-    "Consensus Mechanisms Questions.md"
+    "Cryptography Basic Concepts Questions.md"
   ]
 }
