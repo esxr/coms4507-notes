@@ -6,6 +6,7 @@ These are the best resources to get data from
 - brilliant.org
 - medium.com
 - IBM docs
+- [[princeton_bitcoin_book.pdf]]
 
 ___
 
