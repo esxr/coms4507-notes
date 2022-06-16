@@ -4,29 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "5b111af766becb15",
+        "id": "b5e3b59bf48d0348",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "COMS4507 Exam.md",
-            "mode": "source",
-            "backlinks": true,
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "5cde539ff8e717eb",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Past Exam Papers.md",
-            "mode": "source",
-            "backlinks": true,
-            "source": false
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -84,7 +66,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMS4507 Exam.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +82,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMS4507 Exam.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,17 +152,17 @@
     "width": 295,
     "collapsed": true
   },
-  "active": "5b111af766becb15",
+  "active": "b5e3b59bf48d0348",
   "lastOpenFiles": [
     "COMS4507 Exam.md",
     "Past Exam Papers.md",
+    "eCash Questions.md",
     "Docs/2018 Paper COMS4507.pdf",
     "Docs/2019 Paper COMS4507.pdf",
     "Docs/2020 Paper COMS4507.pdf",
     "Docs/2021 Paper COMS4507.pdf",
     "Docs/2017 Paper COMS4507.pdf",
     "Consensus Mechanisms Questions.md",
-    "Bitcoin Mining Questions.md",
-    "Blockchain Basic Concepts Questions.md"
+    "Bitcoin Mining Questions.md"
   ]
 }
