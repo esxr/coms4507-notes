@@ -1,16 +1,13 @@
 # Bitcoin Practical Implementation
 ___
+### Topics
 
-- bitcoin network
-- bitcoin identity/address
-- bitcoin wallets
-- bitcoin transaction (UXTO)
-	- Transaction types
-- bitcoin scripting language
-	- locking script
-	- unlocking script
-- blocks
-- bitcoin mining
-	- proof-of-work
-	- hashcash puzzles
-- bitcoin scalability
+- bitcoin network - **p2p**
+	- bitcoin identity/address - **wallets**
+	- bitcoin transaction (UXTO)
+		- Blocks
+		- Transaction types
+	- bitcoin scripting language - **locking/unlocking**
+	- bitcoin scalability
+
+___

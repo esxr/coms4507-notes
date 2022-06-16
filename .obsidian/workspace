@@ -6,14 +6,16 @@
       {
         "id": "b03043858e75abc4",
         "type": "leaf",
+        "pinned": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "COMS4507 Syllabus.md",
+            "file": "COMS4507 Syllabus (Main).md",
             "mode": "source",
             "backlinks": true,
             "source": false
-          }
+          },
+          "pinned": true
         }
       }
     ],
@@ -71,7 +73,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMS4507 Syllabus.md",
+                "file": "COMS4507 Syllabus (Main).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,7 +90,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMS4507 Syllabus.md",
+                "file": "COMS4507 Syllabus (Main).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,15 +163,15 @@
   },
   "active": "b03043858e75abc4",
   "lastOpenFiles": [
-    "COMS4507 Syllabus.md",
+    "COMS4507 Syllabus (Main).md",
+    "COMS4507 - Advanced Topics in Security - Main.md",
+    "COMS4507 Seminars (Main).md",
     "Bitcoin Practical Implementation.md",
     "Bitcoin Building Blocks.md",
     "Bitcoin Mining.md",
     "Consensus Mechanism.md",
     "Blockchain Technology.md",
     "Distributed Ledger Technology (DLT).md",
-    "Cryptography Basic Concepts.md",
-    "COMS4507 - Advanced Topics in Security - Main.md",
-    "COMS4507 Exam - Main.md"
+    "Cryptography Basic Concepts.md"
   ]
 }
