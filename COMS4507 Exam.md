@@ -2,7 +2,7 @@
 
 ___
 ### Resources
-These are the best resources to get data from
+These are the best resources to get knowledge from
 - brilliant.org
 - medium.com
 - IBM docs

@@ -24,4 +24,6 @@
 	- [[Collision Resistance]]
 
 - **What can the RSA algorithm be used for?**
-	- [[RSA (Rivest-Shamir-Adelman) Algorithm]]
+	[[RSA (Rivest-Shamir-Adelman) Algorithm]]
+	- data encryption of e-mail 
+	- other digital transactions over the Internet

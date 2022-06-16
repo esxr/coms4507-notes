@@ -30,19 +30,6 @@
         }
       },
       {
-        "id": "78588b49963a73b8",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "RSA (Rivest-Shamir-Adelman) Algorithm.md",
-            "mode": "source",
-            "backlinks": true,
-            "source": false
-          }
-        }
-      },
-      {
         "id": "b16c380cc657d0fb",
         "type": "leaf",
         "state": {
@@ -110,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMS4507 Exam.md",
+                "file": "security basics recap.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMS4507 Exam.md",
+                "file": "security basics recap.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,12 +185,12 @@
     "width": 295,
     "collapsed": true
   },
-  "active": "5b111af766becb15",
+  "active": "1c3d0918564c6e49",
   "lastOpenFiles": [
+    "security basics recap.md",
     "COMS4507 Exam.md",
     "RSA (Rivest-Shamir-Adelman) Algorithm.md",
     "public-key cryptography.md",
-    "security basics recap.md",
     "Cryptographic Hash Function.md",
     "Computational Puzzles.md",
     "Puzzle Friendliness.md",
