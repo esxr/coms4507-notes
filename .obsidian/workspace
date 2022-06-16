@@ -147,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMS4507 Exam.md",
+                "file": "Secret Sharing Scheme Questions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMS4507 Exam.md",
+                "file": "Secret Sharing Scheme Questions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -235,11 +235,11 @@
     "width": 295,
     "collapsed": true
   },
-  "active": "5b111af766becb15",
+  "active": "6214be02b407a4dd",
   "lastOpenFiles": [
+    "Secret Sharing Scheme Questions.md",
     "COMS4507 Exam.md",
     "Past Exam Papers.md",
-    "Secret Sharing Scheme Questions.md",
     "Docs/2017 Paper COMS4507.pdf",
     "Secret Sharing Schemes.md",
     "Bitcoin Mining Questions.md",
