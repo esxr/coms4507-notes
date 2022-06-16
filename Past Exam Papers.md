@@ -8,4 +8,14 @@ ___
 [[Semester_One_Final_Examinations_2021_COMS4507.pdf]]
 
 ___
-### Most common questions
+### Most common topics
+
+- [[eCash]]
+- [[Cryptography Basic Concepts]]
+- [[Blockchain Basic Concepts]]
+- [[Bitcoin Basics]]
+- [[Bitcoin Building Blocks]]
+- [[Secret Sharing Scheme]]
+	- [[Shamir's Method]]
+- [[Bitcoin Mining (Numerical)]]
+- [[Ethereum]]

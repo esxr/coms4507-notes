@@ -12,6 +12,12 @@ ___
 - Peer-to-peer network
 - consensus algorithms
 
+___
+### Types
+- permissioned
+	- 
+- permissionless
+	- 
 
 ___
 ### Implementations
