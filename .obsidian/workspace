@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "60916ce934f722ac",
+        "id": "b03043858e75abc4",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -159,17 +159,17 @@
     "width": 295,
     "collapsed": true
   },
-  "active": "60916ce934f722ac",
+  "active": "b03043858e75abc4",
   "lastOpenFiles": [
     "COMS4507 Syllabus.md",
-    "COMS4507 - Advanced Topics in Security - Main.md",
-    "COMS4507 Exam - Main.md",
-    "COMS4507 Seminars.md",
-    "Bitcoin Basics.md",
-    "Bitcoin Building Blocks.md",
-    "Cryptography Basic Concepts.md",
-    "Cryptography Basic Concepts.md",
     "Bitcoin Practical Implementation.md",
-    "Blockchain Technology.md"
+    "Bitcoin Building Blocks.md",
+    "Bitcoin Mining.md",
+    "Consensus Mechanism.md",
+    "Blockchain Technology.md",
+    "Distributed Ledger Technology (DLT).md",
+    "Cryptography Basic Concepts.md",
+    "COMS4507 - Advanced Topics in Security - Main.md",
+    "COMS4507 Exam - Main.md"
   ]
 }

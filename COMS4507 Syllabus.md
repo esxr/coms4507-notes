@@ -21,6 +21,11 @@ Almost 100% of the questions are covered in these categories
 
 - [[Cryptography Basic Concepts Questions]]
 	- [[Cryptography Basic Concepts]]
+		- Cryptographic Hash Function
+		- Secret-Key Cryptography
+		- Public-key Cryptography
+			- Digital Signatures
+			- Public-Key Certificates
 
 - [[Blockchain Basic Concepts Questions]] <span style="color: white; background-color: red ; padding-left: 5px; padding-right: 5px; border: 1px solid red;">
 important 
@@ -45,7 +50,26 @@ important
 important 
 </span>
 	- [[Bitcoin Building Blocks]]
+		- Cryptographic Hash Function
+		- Blockchain - Data Structure
+		- Merkle Trees - transaction block
+		- Proof-of-Work (Computational Puzzles)
+		- Digital Signature
+
 	- [[Bitcoin Practical Implementation]]
+		- bitcoin network
+		- bitcoin identity/address
+		- bitcoin wallets
+		- bitcoin transaction (UXTO)
+			- Transaction types
+		- bitcoin scripting language
+			- locking script
+			- unlocking script
+		- blocks
+		- bitcoin mining
+			- proof-of-work
+			- hashcash puzzles
+		- bitcoin scalability
 
 - [[Secret Sharing Scheme Questions]]
 - [[Ethereum Questions]]

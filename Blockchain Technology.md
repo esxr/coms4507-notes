@@ -4,7 +4,6 @@ ___
 ### Requirements
 - Maintain the same information across a **shared ledger**
 - Lack of central authority
-- 
 
 
 ___
