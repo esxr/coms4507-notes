@@ -1,22 +1,24 @@
 # Past Exam Papers COMS4507
 ___
 
-[[Semester_One_Final_Examinations_2017_COMS4507_Sample.pdf]]
-[[Semester_One_Final_Examinations__2018_COMS4507.pdf]]
-[[Semester_One_Final_Examinations__2019_COMS4507.pdf]]
-[[Semester_One_Final_Examinations_2020_COMS4507.pdf]]
-[[Semester_One_Final_Examinations_2021_COMS4507.pdf]]
+[[2017 Paper COMS4507.pdf]]
+[[2018 Paper COMS4507.pdf]]
+[[2019 Paper COMS4507.pdf]]
+[[2020 Paper COMS4507.pdf]]
+[[2021 Paper COMS4507.pdf]]
 
 ___
 ### Most common topics
 
-- [[eCash]]
-- [[Cryptography Basic Concepts]]
-- [[Blockchain Basic Concepts]]
-	- [[Consensus Mechanisms]]
-- [[Bitcoin Building Blocks]]
-- [[Bitcoin Practical Implementation]]
-- [[Secret Sharing Scheme]]
-	- [[Shamir's Method]]
-- [[Bitcoin Mining (Numerical)]]
-- [[Ethereum]]
+- [[eCash Questions]]
+	- [[David Chaum's Paper]]
+- [[Cryptography Basic Concepts Questions]]
+- [[Blockchain Basic Concepts Questions]]
+	- [[Consensus Mechanisms Questions]]
+	- [[Bitcoin Mining Questions]]
+- [[Bitcoin General Questions]]
+- [[Secret Sharing Scheme Questions]]
+	- [[Shamir's Method Questions]]
+- [[Ethereum Questions]]
+
+___
