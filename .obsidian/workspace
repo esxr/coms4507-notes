@@ -30,6 +30,32 @@
         }
       },
       {
+        "id": "78588b49963a73b8",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "RSA (Rivest-Shamir-Adelman) Algorithm.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "258087aad5f80d85",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "public-key cryptography.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
+        }
+      },
+      {
         "id": "ff4e9f9c292275e5",
         "type": "leaf",
         "state": {
@@ -110,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "security basics recap.md",
+                "file": "public-key cryptography.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "security basics recap.md",
+                "file": "public-key cryptography.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,8 +224,10 @@
     "width": 295,
     "collapsed": true
   },
-  "active": "1c3d0918564c6e49",
+  "active": "258087aad5f80d85",
   "lastOpenFiles": [
+    "public-key cryptography.md",
+    "RSA (Rivest-Shamir-Adelman) Algorithm.md",
     "security basics recap.md",
     "Cryptographic Hash Function.md",
     "COMS4507 Exam.md",
@@ -207,8 +235,6 @@
     "Puzzle Friendliness.md",
     "Digital Signature Detailed (Scheme).md",
     "Digital Signature.md",
-    "Hiding (Cryptography).md",
-    "images/Hiding 2022-06-17 00.14.05.excalidraw.md",
-    "Collision Resistance.md"
+    "Hiding (Cryptography).md"
   ]
 }

@@ -1,5 +1,8 @@
 # Public Key Cryptography
 ___
+### For Noobs
+![[Pasted image 20220617011528.png]]
+
 
 ### Method
 
@@ -22,5 +25,5 @@ ___
 
 ___
 ### Algorithms
-- [[Rivest-Shamir-Adelman (RSA) Algorithm]] 
+- [[RSA (Rivest-Shamir-Adelman) Algorithm]] 
 	- Create a **mathematically linked** pair of keys

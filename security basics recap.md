@@ -16,11 +16,12 @@
 	[[Public Key Certificate#Solution to the Problem]]
 
 - **Difference between "digital signature" and "digital certificate"?**
-Digital Signatures prevent forgery in the digital world
-Digital Certificates link the real world to the digital world so that a real person can't fake a digital identity
+	- Digital Signatures prevent forgery in the digital world
+	- Digital Certificates link the real world to the digital world so that a real person can't fake a digital identity
 
 - **What is a “hash collision”?** 
-[[Cryptographic Hash Function]]
-[[Collision Resistance]]
+	- [[Cryptographic Hash Function]]
+	- [[Collision Resistance]]
 
 - **What can the RSA algorithm be used for?**
+	- [[RSA (Rivest-Shamir-Adelman) Algorithm]]
