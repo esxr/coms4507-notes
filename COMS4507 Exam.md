@@ -10,8 +10,15 @@ These are the best resources to get knowledge from
 - IBM docs
 - [[princeton_bitcoin_book.pdf]]
 
-**Exam Papers**
+**Revision**
 [[Past Exam Papers]]
+[[Past Exam Papers#Most common topics|Most Common Topics]] <span style="color: white; background-color: red ; padding-left: 5px; padding-right: 5px; border: 1px solid red;">
+Covers 80% of subject revision
+</span>
+
+[[Seminar Topics Revision]] <span style="color: white; background-color: red ; padding-left: 5px; padding-right: 5px; border: 1px solid red;">
+Covers 80% of seminar revision 
+</span>
 
 ___
 

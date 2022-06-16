@@ -43,6 +43,16 @@
         }
       },
       {
+        "id": "d21a2ed517ea369b",
+        "type": "leaf",
+        "state": {
+          "type": "pdf",
+          "state": {
+            "file": "Docs/2017 Paper COMS4507.pdf"
+          }
+        }
+      },
+      {
         "id": "b97635db5de12250",
         "type": "leaf",
         "state": {
@@ -137,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Secret Sharing Scheme Questions.md",
+                "file": "COMS4507 Exam.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Secret Sharing Scheme Questions.md",
+                "file": "COMS4507 Exam.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -225,17 +235,17 @@
     "width": 295,
     "collapsed": true
   },
-  "active": "6214be02b407a4dd",
+  "active": "5b111af766becb15",
   "lastOpenFiles": [
-    "Secret Sharing Scheme Questions.md",
-    "Secret Sharing Schemes.md",
+    "COMS4507 Exam.md",
     "Past Exam Papers.md",
+    "Secret Sharing Scheme Questions.md",
+    "Docs/2017 Paper COMS4507.pdf",
+    "Secret Sharing Schemes.md",
     "Bitcoin Mining Questions.md",
     "Bitcoin General Questions.md",
     "Bitcoin.md",
     "Bitcoin Mining.md",
-    "Consensus Mechanisms Questions.md",
-    "Consensus Mechanism.md",
-    "Blockchain Basic Concepts Questions.md"
+    "Consensus Mechanisms Questions.md"
   ]
 }
