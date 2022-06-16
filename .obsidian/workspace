@@ -30,25 +30,12 @@
         }
       },
       {
-        "id": "47ecfcfec3e89e82",
+        "id": "5dc599b0fe58e16e",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "public-key cryptography.md",
-            "mode": "source",
-            "backlinks": true,
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "e2466509bd814cda",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "secret-key cryptography.md",
+            "file": "Digital Signature.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -110,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "secret-key cryptography.md",
+                "file": "Digital Signature.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "secret-key cryptography.md",
+                "file": "Digital Signature.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,17 +185,17 @@
     "width": 295,
     "collapsed": true
   },
-  "active": "e2466509bd814cda",
+  "active": "5dc599b0fe58e16e",
   "lastOpenFiles": [
+    "Digital Signature.md",
+    "security basics recap.md",
     "secret-key cryptography.md",
     "public-key cryptography.md",
-    "security basics recap.md",
+    "Public Key Certificate.md",
     "COMS4507 Exam.md",
     "COMS4507 - Advanced Topics in Security.md",
     "README.md",
     "COMS4507 exam questions.md",
-    "images/Pasted image 20220616001335.png",
-    "images/Pasted image 20220616001207.png",
-    "CSSE3012 - The Software Process.md"
+    "images/Pasted image 20220616001335.png"
   ]
 }
