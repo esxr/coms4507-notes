@@ -14,13 +14,10 @@ flawed
 	- Now how to measure this computing power? - [[Computational Puzzles]]
 		- Should be **hard to solve**
 		- Should be **easy to verify**
+		- *examples* - [[Proof-of-Work]], [[Proof-of-Stake]]
 
 ___
 ### Overview
 
-
-___
-### Components
-- [[Proof-of-Work]]
 
 ___

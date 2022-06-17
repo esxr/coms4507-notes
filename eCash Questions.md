@@ -22,7 +22,7 @@ ___
 ![[Pasted image 20220617034334.png]]
 
 [[Proof-of-Work]]
-[[Computational Puzzles]]
+[[Computational Puzzle]]
 
 ___
 ![[Pasted image 20220617035059.png]]

@@ -1,4 +1,9 @@
 # Proof-of-Work
+A [[Computational Puzzle]] used in [[Consensus Mechanism]]
+___
+### Overview
+
+
 ___
 ### Block
 
@@ -16,4 +21,4 @@ ___
 
 
 - [[HashCash Puzzle]]
-	- [[Computational Puzzles]]
+	- [[Computational Puzzle]]
