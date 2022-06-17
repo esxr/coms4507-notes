@@ -9,4 +9,12 @@ ___
 
 
 ___
+### Proposers
+
+
+___
 ### Voting Power
+
+
+
+___

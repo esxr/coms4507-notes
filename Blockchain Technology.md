@@ -5,6 +5,10 @@ ___
 - Maintain the same information across a **shared ledger**
 - Lack of central authority
 
+___
+### Types
+- Permissioned
+- Unpermissioned
 
 ___
 ### Components

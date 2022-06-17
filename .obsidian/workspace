@@ -17,25 +17,12 @@
         }
       },
       {
-        "id": "4a83cb6a1492d004",
+        "id": "b9ecfd8277bfd4af",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Consensus Mechanisms Questions.md",
-            "mode": "source",
-            "backlinks": true,
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "78b6c0cb21481c9e",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Tendermint Consensus.md",
+            "file": "Bitcoin General Questions.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -105,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tendermint Consensus.md",
+                "file": "Bitcoin General Questions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +109,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tendermint Consensus.md",
+                "file": "Bitcoin General Questions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -193,17 +180,17 @@
     "width": 295,
     "collapsed": true
   },
-  "active": "78b6c0cb21481c9e",
+  "active": "b9ecfd8277bfd4af",
   "lastOpenFiles": [
-    "Tendermint Consensus.md",
-    "Consensus Mechanisms Questions.md",
-    "Proof-of-Work.md",
-    "Consensus Mechanism.md",
-    "Bitcoin Basics.md",
     "Bitcoin General Questions.md",
-    "Bitcoin Mining.md",
+    "Bitcoin Building Blocks.md",
+    "Bitcoin Basics.md",
+    "Blockchain Technology.md",
     "COMS4507 Syllabus (Main).md",
-    "Blockchain Basic Concepts Questions.md",
-    "Blockchain Technology.md"
+    "Bitcoin Mining Questions.md",
+    "Bitcoin Mining.md",
+    "Bitcoin Mining Pool.md",
+    "Consensus Mechanisms Questions.md",
+    "Tendermint Consensus.md"
   ]
 }

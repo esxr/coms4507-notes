@@ -5,10 +5,33 @@ ___
 - [[Proof-of-Stake]]
 
 ___
-### Block Reward
+### Mining Puzzle
 
 ___
-### Hash Power
+### Mining Reward
+- Transaction Fees
+- Block Reward
+
+___
+### Hash Power and Hash Rate
 
 
 ___
+### Statistics
+
+
+___
+### Practical Implementation
+**[[ASIC Resistant PoW Algorithm]]**
+
+
+**Hash Rate**
+
+
+**Block Reward**
+
+___
+### Quantitative Analysis
+
+___
+### [[Bitcoin Mining Pool]]
