@@ -1,4 +1,10 @@
+#export
 # Digital Signature Detailed Scheme
+___
+### Implementations of this scheme
+- Bitcoin uses [[ECDSA (Elliptical Curve Digital Signature Algorithm)]]
+- Other examples [[RSA (Rivest-Shamir-Adelman) Algorithm]]
+
 ___
 - required properties of solution
 	- only **YOU can make** your signature

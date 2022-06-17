@@ -49,12 +49,16 @@ important
 - [[Bitcoin General Questions]] <span style="color: white; background-color: red ; padding-left: 5px; padding-right: 5px; border: 1px solid red;">
 important 
 </span>
-	- [[Bitcoin Building Blocks]]
-		- Cryptographic Hash Function
-		- Blockchain - Data Structure
-		- Merkle Trees - transaction block
-		- Proof-of-Work (Computational Puzzles)
-		- Digital Signature
+	- [[Bitcoin Building Blocks]] <span style="background-color: yellow; padding-left: 5px; padding-right: 5px; border: 1px solid black;">
+export 
+</span>
+		- **Ledger** - [[Blockchain - Data Structure]] <span style="background-color: yellow; padding-left: 5px; padding-right: 5px; border: 1px solid black;">
+export 
+</span>
+		- **Transaction** - [[Digital Signature Detailed (Scheme)]] <span style="background-color: yellow; padding-left: 5px; padding-right: 5px; border: 1px solid black;">
+export 
+</span>
+		- **Verification** - 
 
 	- [[Bitcoin Practical Implementation]]
 		- bitcoin network - **p2p**

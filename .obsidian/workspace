@@ -15,6 +15,19 @@
             "source": false
           }
         }
+      },
+      {
+        "id": "e59481e0f9b210fc",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "COMS4507 Syllabus (Main).md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
+        }
       }
     ],
     "direction": "vertical"
@@ -170,14 +183,14 @@
   "active": "30d962d30d0d4092",
   "lastOpenFiles": [
     "Bitcoin Building Blocks.md",
+    "Digital Signature Detailed (Scheme).md",
+    "ECDSA (Elliptical Curve Digital Signature Algorithm).md",
+    "COMS4507 Syllabus (Main).md",
+    "Digital Signature.md",
+    "images/Blockchain - Data Structure 2022-06-18 03.44.36.excalidraw.md",
     "Blockchain - Data Structure.md",
     "Merkle Trees.md",
     "Blockchain - Data Structure - Detailed.md",
-    "images/Blockchain - Data Structure 2022-06-18 03.44.36.excalidraw.md",
-    "Bitcoin Basics.md",
-    "eCash.md",
-    "blind signatures.md",
-    "RSA (Rivest-Shamir-Adelman) Algorithm.md",
-    "COMS4507 Syllabus (Main).md"
+    "Bitcoin Basics.md"
   ]
 }
