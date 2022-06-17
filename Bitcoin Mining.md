@@ -1,3 +1,4 @@
+#export
 # Bitcoin Mining
 ___
 ### Approaches
@@ -6,6 +7,14 @@ ___
 
 ___
 ### Mining Puzzle
+- Probabilistic puzzle - no other strategy
+	- Find the right `nonce (32-bit value)` (brute force) to win
+- Difficulty adjusted every **2016** blocks (~14 days)
+- Average solve time: `~10 days`
+
+___
+### Quantitative Analysis
+
 
 ___
 ### Mining Reward
@@ -30,8 +39,6 @@ ___
 
 **Block Reward**
 
-___
-### Quantitative Analysis
 
 ___
 ### [[Bitcoin Mining Pool]]

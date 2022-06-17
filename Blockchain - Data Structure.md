@@ -11,8 +11,11 @@ blocks
 - Each <span style="background-color: #cfc ; padding-left: 5px; padding-right: 5px; border: 1px solid green;">
 block 
 </span> is a collection of `~2000` transactions stored in a **merkle tree**
- ___
+___
+### Important Points
+- A Merkle Root is calculated as the **hash of the two concatenated hash values** of its two child nodes
 
+___
 For detailed explanation
 [[Blockchain - Data Structure - Detailed]]
 

@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "30d962d30d0d4092",
+        "id": "90dffa5a9a8c2709",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Bitcoin Building Blocks.md",
+            "file": "COMS4507 Syllabus (Main).md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -17,12 +17,12 @@
         }
       },
       {
-        "id": "ede01b6aaeec89f1",
+        "id": "16c614c7ab20ad23",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Consensus Mechanism.md",
+            "file": "Blockchain - Data Structure.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -30,25 +30,12 @@
         }
       },
       {
-        "id": "8be61fe868496141",
+        "id": "675fa6b0c3ad4d4d",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Proof-of-Work.md",
-            "mode": "source",
-            "backlinks": true,
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "57f3d639eb437b7d",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Proof-of-Work.md",
+            "file": "Bitcoin Mining.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -118,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bitcoin Building Blocks.md",
+                "file": "COMS4507 Syllabus (Main).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bitcoin Building Blocks.md",
+                "file": "COMS4507 Syllabus (Main).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,17 +193,17 @@
     "width": 295,
     "collapsed": true
   },
-  "active": "30d962d30d0d4092",
+  "active": "90dffa5a9a8c2709",
   "lastOpenFiles": [
-    "Bitcoin Building Blocks.md",
-    "Proof-of-Work.md",
-    "Consensus Mechanism.md",
-    "Computational Puzzle.md",
-    "Digital Signature Detailed (Scheme).md",
-    "ECDSA (Elliptical Curve Digital Signature Algorithm).md",
     "COMS4507 Syllabus (Main).md",
-    "Digital Signature.md",
-    "images/Blockchain - Data Structure 2022-06-18 03.44.36.excalidraw.md",
-    "Blockchain - Data Structure.md"
+    "Bitcoin Practical Implementation.md",
+    "Blockchain - Data Structure.md",
+    "Bitcoin Mining.md",
+    "eCash.md",
+    "Bitcoin Building Blocks.md",
+    "Bitcoin Basics.md",
+    "Blockchain Basic Concepts Questions.md",
+    "Blockchain Basic Concepts.md",
+    "Proof-of-Work.md"
   ]
 }

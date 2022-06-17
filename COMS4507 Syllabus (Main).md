@@ -16,7 +16,9 @@ Almost 100% of the questions are covered in these categories
 
 
 - [[eCash Questions]]
-	- [[eCash]] - DigiCash - *failed because 3rd party reliance*
+	- [[eCash]] <span style="background-color: yellow; padding-left: 5px; padding-right: 5px; border: 1px solid black;">
+export 
+</span> - DigiCash - *failed because 3rd party reliance*
 	- [[David Chaum's Paper]]
 
 - [[Cryptography Basic Concepts Questions]]
@@ -42,7 +44,9 @@ important
 - [[Bitcoin Mining Questions]] <span style="color: white; background-color: red ; padding-left: 5px; padding-right: 5px; border: 1px solid red;">
 important 
 </span>
-	- [[Bitcoin Mining]]
+	- [[Bitcoin Mining]] <span style="background-color: yellow; padding-left: 5px; padding-right: 5px; border: 1px solid black;">
+export 
+</span>
 		- proof-of-work
 		- hashcash puzzles
 
@@ -58,9 +62,16 @@ export
 		- **Transaction** - [[Digital Signature Detailed (Scheme)]] <span style="background-color: yellow; padding-left: 5px; padding-right: 5px; border: 1px solid black;">
 export 
 </span>
-		- **Verification** - 
+		- **Verification** - [[Consensus Mechanism]] <span style="background-color: yellow; padding-left: 5px; padding-right: 5px; border: 1px solid black;">
+export 
+</span>
+			- [[Proof-of-Work]] <span style="background-color: yellow; padding-left: 5px; padding-right: 5px; border: 1px solid black;">
+export 
+</span>
 
-	- [[Bitcoin Practical Implementation]]
+	- [[Bitcoin Practical Implementation]] <span style="background-color: yellow; padding-left: 5px; padding-right: 5px; border: 1px solid black;">
+export 
+</span>
 		- bitcoin network - **p2p**
 		- bitcoin identity/address - **wallets**
 		- bitcoin transaction (UXTO)
