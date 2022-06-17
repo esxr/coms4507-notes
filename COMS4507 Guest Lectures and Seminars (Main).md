@@ -14,18 +14,18 @@ ___
 [[2021 Paper COMS4507.pdf]]
 
 ___
-**Questions Covered**
-- [ ] Explain flaw in current implementation
-- [ ] Explain aim of new technology
+### Questions Covered
+- [ ] **Explain flaw in current implementation**
+- [ ] **Explain aim of new technology**
 
-- [ ] Key features of new technology
-- [ ] Explain concept behind new technology
+- [ ] **Key features of new technology**
+- [ ] **Explain concept behind new technology**
 
-- [ ] Explain all steps of implementation of new technology
-- [ ] List all implementations of new technology
+- [ ] **Explain implementation of new technology**
+- [ ] **List all solutions based on new technology**
 
-- [ ] Advantages of new technology
-- [ ] Limitations of new technology
+- [ ] **Advantages of new technology**
+- [ ] **Limitations/Disadvantages of new technology**
 
 <div style="color: white; background-color: red ; padding-left: 5px; padding-right: 5px; border: 1px solid red;">
 <b>General Observation</b>
@@ -52,8 +52,10 @@ ___
 # Seminars
 - [x] [[Post Quantum Cryptography]]
 - [x] [[Using NFTs For Event Ticketing]]
-- [ ] [[Anonymous Connections and Onion Routing]]
-- [ ] [[Blockchain as a service(BaaS)]]
+- [ ] [[Anonymous Connections and Onion Routing]] <span style="color: white; background-color: red ; padding-left: 5px; padding-right: 5px; border: 1px solid red;">
+difficult 
+</span>
+- [ ] [[Blockchain as a service(BaaS)]] 
 - [ ] [[The Helium Network]]
 - [ ] [[Hashgraph]]
 - [ ] [[COMS4507 - Mining Competition]]
