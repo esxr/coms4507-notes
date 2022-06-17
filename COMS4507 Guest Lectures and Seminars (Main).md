@@ -14,19 +14,18 @@ ___
 [[2021 Paper COMS4507.pdf]]
 
 ___
-### Common question patterns
-- Basic purpose of {target}
-- Key mechanisms for {target}
-- Against the {target}
-- Key limitations of {target}
-- List all {target} of {target}
-- Explain {concept} behind {target}
-- Explain {concept} behind {target}
-- Explain {target} inside {target}
-- Explain {flaw} in {target}
-- Explain {flaw} in {target}
-- Explain aim of {target}
-- Explain advantages of {target} compared to another {target}
+**Questions Covered**
+- [ ] Explain flaw in current implementation
+- [ ] Explain aim of new technology
+
+- [ ] Key features of new technology
+- [ ] Explain concept behind new technology
+
+- [ ] Explain all steps of implementation of new technology
+- [ ] List all implementations of new technology
+
+- [ ] Advantages of new technology
+- [ ] Limitations of new technology
 
 <div style="color: white; background-color: red ; padding-left: 5px; padding-right: 5px; border: 1px solid red;">
 <b>General Observation</b>
@@ -52,7 +51,7 @@ ___
 ___
 # Seminars
 - [x] [[Post Quantum Cryptography]]
-- [ ] [[Using NFTs For Event Ticketing]]
+- [x] [[Using NFTs For Event Ticketing]]
 - [ ] [[Anonymous Connections and Onion Routing]]
 - [ ] [[Blockchain as a service(BaaS)]]
 - [ ] [[The Helium Network]]

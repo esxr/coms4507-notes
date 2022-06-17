@@ -17,6 +17,19 @@
           },
           "pinned": true
         }
+      },
+      {
+        "id": "fc60cc8a7f092627",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Anonymous Connections and Onion Routing.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
+        }
       }
     ],
     "direction": "vertical"
@@ -81,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMS4507 Guest Lectures and Seminars (Main).md",
+                "file": "Anonymous Connections and Onion Routing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMS4507 Guest Lectures and Seminars (Main).md",
+                "file": "Anonymous Connections and Onion Routing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,17 +182,17 @@
     "width": 295,
     "collapsed": true
   },
-  "active": "54109cef5049ad2c",
+  "active": "fc60cc8a7f092627",
   "lastOpenFiles": [
+    "Anonymous Connections and Onion Routing.md",
     "COMS4507 Guest Lectures and Seminars (Main).md",
-    "Post Quantum Cryptography.md",
     "Using NFTs For Event Ticketing.md",
+    "Docs/Using NFTs For Event Ticketing.pdf",
+    "Post Quantum Cryptography.md",
     "images/Post Quantum Cryptography 2022-06-17 20.04.23.excalidraw.md",
     "Docs/Post Quantum Cryptography.pdf",
     "COMS4507 Syllabus (Main).md",
     "Docs/2018 Paper COMS4507.pdf",
-    "Docs/2021 Paper COMS4507.pdf",
-    "Docs/2020 Paper COMS4507.pdf",
-    "Docs/2019 Paper COMS4507.pdf"
+    "Docs/2021 Paper COMS4507.pdf"
   ]
 }
