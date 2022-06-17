@@ -1,13 +1,15 @@
 #export
 # Bitcoin Building Blocks
 ___
-- **Ledger** - [[Blockchain - Data Structure]]
-	- [[Cryptographic Hash Function]]
-	- [[Merkle Trees]] - transaction block
+- **Ledger** 
+	- **Structure** -  [[Blockchain - Data Structure]]
+		- [[Cryptographic Hash Function]]
+		- [[Merkle Trees]] - transaction block
+	- **Consensus**
+		- [[Consensus Mechanism]]
 
 - **Transaction** - [[Digital Signature Detailed (Scheme)]]
-- **Verification and Consensus**
-	- [[Proof-of-Work]]
+	- **Verification**
 		- [[Computational Puzzles]]
 
 ___
