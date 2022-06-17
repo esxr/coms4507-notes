@@ -21,6 +21,6 @@ ___
 		- **ANYONE can verify** that it is valid
 	- one signature => one document
 
-- uses [[public-key cryptography]] for making signatures and signing them
+- uses [[Public-Key Cryptography]] for making signatures and signing them
 
 ___

@@ -1,15 +1,15 @@
 ### Topics
 - [[Cryptographic Hash Function]]
-	- [[secret-key cryptography]] - OTP, AES
-	- [[public-key cryptography]] - [[RSA (Rivest-Shamir-Adelman) Algorithm|RSA]]
+	- [[Secret-Key cryptography]] - OTP, AES
+	- [[Public-Key Cryptography]] - [[RSA (Rivest-Shamir-Adelman) Algorithm|RSA]]
 		- [[Digital Signature|signatures]]
 		- [[Public Key Certificate|certificates]]
 
 ___
 ### Questions
 - **What is the main difference between secret-key and public key cryptography?**
-[[secret-key cryptography#Method]]
-[[public-key cryptography#Method]]
+[[Secret-Key cryptography#Method]]
+[[Public-Key Cryptography#Method]]
 
 - **What is a digital signature, i.e. what does it provide?** 
 	- Digital Signatures prevent forgery of signatures so that Charlie cannot forge Bob's signature while sending messages to Alice

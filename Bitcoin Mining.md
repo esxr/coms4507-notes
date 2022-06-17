@@ -14,6 +14,8 @@ ___
 
 ___
 ### Quantitative Analysis
+![[Pasted image 20220618051608.png]]
+
 
 
 ___

@@ -3,7 +3,7 @@
 [Brilliant reference](https://brilliant.org/wiki/rsa-encryption/)
 
 ___
-A way of implementing [[public-key cryptography]]
+A way of implementing [[Public-Key Cryptography]]
 
 - **public key:** `pq = p x q` (**p** and **q** => large prime numbers)
 - **private key:** generated through a different process involving **p** and **q**

@@ -14,7 +14,6 @@ ___
 Almost 100% of the questions are covered in these categories 
 </div>
 
-
 - [[eCash Questions]]
 	- [[eCash]] <span style="background-color: yellow; padding-left: 5px; padding-right: 5px; border: 1px solid black;">
 export 
@@ -24,8 +23,13 @@ export
 - [[Cryptography Basic Concepts Questions]]
 	- [[Cryptography Basic Concepts]]
 		- Cryptographic Hash Function
-		- Secret-Key Cryptography
-		- Public-key Cryptography - **Signatures** and **Certificates**
+		- [[Secret-Key Cryptography]] <span style="background-color: yellow; padding-left: 5px; padding-right: 5px; border: 1px solid black;">
+export 
+</span>
+		- [[Public-key Cryptography]] <span style="background-color: yellow; padding-left: 5px; padding-right: 5px; border: 1px solid black;">
+export 
+</span>
+			- **Signatures** and **Certificates**
 
 - [[Blockchain Basic Concepts Questions]] <span style="color: white; background-color: red ; padding-left: 5px; padding-right: 5px; border: 1px solid red;">
 important 
@@ -80,7 +84,7 @@ export
 		- bitcoin scripting language - **locking/unlocking**
 		- bitcoin scalability
 
-- [[Secret Sharing Scheme Questions]]
+- [[Secret Sharing Scheme Questions]] *(removed)*
 - [[Ethereum Questions]]
 
 ___
