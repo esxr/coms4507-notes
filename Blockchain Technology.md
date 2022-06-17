@@ -9,9 +9,16 @@ ___
 ___
 ### Components
 - Peer-to-peer network
-- consensus algorithms
+- [[Blockchain Ledger]]
+	- [[Consensus Mechanism]]
+- [[Blockchain - Data Structure]]
 
 
 ___
 ### Implementations
+
+
+
+___
+
 
