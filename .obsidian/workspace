@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "b9b504cd80e043c4",
+        "id": "54109cef5049ad2c",
         "type": "leaf",
         "pinned": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "COMS4507 - Advanced Topics in Security - Main.md",
+            "file": "COMS4507 Guest Lectures and Seminars (Main).md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMS4507 - Advanced Topics in Security - Main.md",
+                "file": "COMS4507 Guest Lectures and Seminars (Main).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMS4507 - Advanced Topics in Security - Main.md",
+                "file": "COMS4507 Guest Lectures and Seminars (Main).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,17 +169,17 @@
     "width": 295,
     "collapsed": true
   },
-  "active": "b9b504cd80e043c4",
+  "active": "54109cef5049ad2c",
   "lastOpenFiles": [
-    "COMS4507 - Advanced Topics in Security - Main.md",
-    "COMS4507 Syllabus (Main).md",
     "COMS4507 Guest Lectures and Seminars (Main).md",
-    "Docs/Sandwich Attacks - Analysis and Prevention.pdf",
-    "Bitcoin Practical Implementation.md",
-    "Bitcoin Building Blocks.md",
-    "Bitcoin Mining.md",
-    "Consensus Mechanism.md",
-    "Blockchain Technology.md",
-    "Distributed Ledger Technology (DLT).md"
+    "Post Quantum Cryptography.md",
+    "Using NFTs For Event Ticketing.md",
+    "images/Post Quantum Cryptography 2022-06-17 20.04.23.excalidraw.md",
+    "Docs/Post Quantum Cryptography.pdf",
+    "COMS4507 Syllabus (Main).md",
+    "Docs/2018 Paper COMS4507.pdf",
+    "Docs/2021 Paper COMS4507.pdf",
+    "Docs/2020 Paper COMS4507.pdf",
+    "Docs/2019 Paper COMS4507.pdf"
   ]
 }

@@ -5,6 +5,33 @@ ___
 - Skim topic
 - Go **breadth-first**
 
+___
+### Past Exam Papers
+[[2017 Paper COMS4507.pdf]]
+[[2018 Paper COMS4507.pdf]]
+[[2019 Paper COMS4507.pdf]]
+[[2020 Paper COMS4507.pdf]]
+[[2021 Paper COMS4507.pdf]]
+
+___
+### Common question patterns
+- Basic purpose of {target}
+- Key mechanisms for {target}
+- Against the {target}
+- Key limitations of {target}
+- List all {target} of {target}
+- Explain {concept} behind {target}
+- Explain {concept} behind {target}
+- Explain {target} inside {target}
+- Explain {flaw} in {target}
+- Explain {flaw} in {target}
+- Explain aim of {target}
+- Explain advantages of {target} compared to another {target}
+
+<div style="color: white; background-color: red ; padding-left: 5px; padding-right: 5px; border: 1px solid red;">
+<b>General Observation</b>
+<p>Questions go till depth level 2</p>
+</div>
 
 ___
 ### Guest Lectures
@@ -24,19 +51,29 @@ ___
 
 ___
 # Seminars
-- [[Post Quantum Cryptography.pdf]]
-- [[Using NFTs For Event Ticketing.pdf]]
-- [[Anonymous Connections and Onion Routing.pdf]]
-- [[Blockchain as a service(BaaS).pdf]]
-- [[The Helium Network.pdf]]
-- [[Hashgraph.pdf]]
-- [[COMS4507 - Mining Competition.pdf]]
-- [[Monero.pdf]]
-- [[Comparative analysis of Android and iOS from security viewpoint.pdf]]
-- [[Sandwich Attacks - Analysis and Prevention.pdf]]
-- [[Minesweeper - Crypto Mining.pdf]]
-- [[SSL TLS Attacks.pdf]]
-- [[The Anatomy of a Cryptocurrency Pump-and-Dump Scheme.pdf]]
-
+- [x] [[Post Quantum Cryptography]]
+- [ ] [[Using NFTs For Event Ticketing]]
+- [ ] [[Anonymous Connections and Onion Routing]]
+- [ ] [[Blockchain as a service(BaaS)]]
+- [ ] [[The Helium Network]]
+- [ ] [[Hashgraph]]
+- [ ] [[COMS4507 - Mining Competition]]
+- [ ] [[Monero]]
+- [ ] [[Comparative analysis of Android and iOS from security viewpoint]]
+- [ ] [[Sandwich Attacks - Analysis and Prevention]]
+- [ ] [[Minesweeper - Crypto Mining]]
+- [ ] [[SSL TLS Attacks]]
+- [ ] [[The Anatomy of a Cryptocurrency Pump-and-Dump Scheme]]
+- [ ] [[Penetration Testing]]
+- [ ] [[Password Cracking, Approaches and Tools]]
+- [ ] [[FlashBoys 2.0]]
+- [ ] [[Ethereum P2P Networking Layer]]
+- [ ] [[NFTs]]
+- [ ] [[Polkadot]]
+- [ ] [[50 Ways to Leak Your Data]]
+- [ ] [[IPFS]]
+- [ ] [[How to share a secret]]
+- [ ] [[Intrusion Detection Systems]]
+- [ ] [[Honeywords]]
 
 ___
