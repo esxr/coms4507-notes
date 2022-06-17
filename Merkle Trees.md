@@ -1,11 +1,8 @@
-### Merkle Root
-
+# Merkle Trees
 ___
-### Traversal
-
+![[Pasted image 20220618034142.png|300]]
 
 ___
 ### Proof Of Membership
-
-___
-### Proof Of Non Membership
+- Show path to the **merkle root**
+	- Cost `O(log N)`

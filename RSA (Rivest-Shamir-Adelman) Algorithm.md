@@ -9,4 +9,10 @@ A way of implementing [[public-key cryptography]]
 - **private key:** generated through a different process involving **p** and **q**
 - based on the *difficulty of the factorization* problem
 
+___
+### Overview
+![[Pasted image 20220618030454.png]]
+
+___
+
 

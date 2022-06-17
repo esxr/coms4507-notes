@@ -1,5 +1,16 @@
 # Bitcoin
 ___
+### Overview
+- Transactions - [[Blockchain Ledger]]
+	- no **forgery** [[Digital Signature]]
+	- no **double spend**
+	- pseudoanonymity
+
+- Decentralized - no *third-party reliance*
+	- [[Consensus Mechanism]] - [[Nakamoto Consensus]]
+
+___
+
 ### Bitcoin Transactions
 **Transaction Fees**
 
