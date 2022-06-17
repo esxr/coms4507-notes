@@ -7,6 +7,7 @@ ___
 
 [[COMS4507 Cheat Sheet]]
 [[COMS4507 Exam Notes]]
+[[COMS4507 Seminar Notes]]
 
 ___
 # Exam notes rules

@@ -4,16 +4,16 @@ ___
 
 ![[Blockchain - Data Structure 2022-06-18 03.44.36.excalidraw]]
 
-- blockchain is a **link list** of <span style="background-color: #cfc ; padding-left: 5px; padding-right: 5px; border: 1px solid green;">
-blocks 
-</span>
+- blockchain is a **link list** of **blocks**
 	- pointer to previous is **hash pointer** generated through a **hash function**
-- Each <span style="background-color: #cfc ; padding-left: 5px; padding-right: 5px; border: 1px solid green;">
-block 
-</span> is a collection of `~2000` transactions stored in a **merkle tree**
+- Each **block** is a collection of ~2000 transactions stored in a merkle tree
 ___
 ### Important Points
 - A Merkle Root is calculated as the **hash of the two concatenated hash values** of its two child nodes
+
+___
+### Do you need a Blockchain?
+![[Pasted image 20220618053701.png]]
 
 ___
 For detailed explanation

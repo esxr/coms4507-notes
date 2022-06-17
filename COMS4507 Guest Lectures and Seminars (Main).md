@@ -16,15 +16,19 @@ ___
 ___
 ### Questions Covered
 - [ ] **Explain flaw in current implementation**
+
 - [ ] **Explain aim of new technology**
 
 - [ ] **Key features of new technology**
+
 - [ ] **Explain concept behind new technology**
 
 - [ ] **Explain implementation of new technology**
+
 - [ ] **List all solutions based on new technology**
 
 - [ ] **Advantages of new technology**
+
 - [ ] **Limitations/Disadvantages of new technology**
 
 <div style="color: white; background-color: red ; padding-left: 5px; padding-right: 5px; border: 1px solid red;">

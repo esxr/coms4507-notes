@@ -4,9 +4,7 @@ A consensus mechanism is needed so the **the whole system agrees** that a transa
 
 ___
 ### Background
-- <span style="color: white; background-color: red ; padding-left: 5px; padding-right: 5px; border: 1px solid red;">
-flawed 
-</span> Voting?
+- **(Flawed)** Voting?
 	- **Sybil Attacks** - More than 51% of the people say the wrong thing, it is true
 	- How to avoid Sybil Attacks?
 		- replace `“one node (or one IP address) one vote”`, with `“one CPU one vote”`
@@ -17,7 +15,4 @@ flawed
 		- *examples* - [[Proof-of-Work]], [[Proof-of-Stake]]
 
 ___
-### Overview
 
-
-___

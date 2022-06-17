@@ -1,6 +1,24 @@
 #export
 # Bitcoin Practical Implementation
 We know about [[Bitcoin Building Blocks]] now it is time to see how it all functions
+
+___
+### Facts
+- Total bitcoin - `21 Million`
+![[Pasted image 20220618053004.png|500]]
+
+- Mining reward half every 4 years (initially 50 BTC per block)
+- miner currently gets freshly “minted” 6.25 BTC **(Block reward)**
+
+**Scalability**
+- Bitcoin Blocksize is limited to 1 MB (initially) 
+- Avg TX size ~500 bytes → ~2,000 TX per block
+- A block is confirmed every ~10 minutes 
+- 2,000 TX / 600 seconds = 3.3 TX/s
+- **Solution?**
+	- increase block size - *Bitcoin Cash*
+	- **further problem:** Slower nodes can't keep up
+
 ___
 ### Topics
 - bitcoin network - **p2p**

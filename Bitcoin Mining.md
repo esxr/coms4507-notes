@@ -21,20 +21,16 @@ ___
 ___
 ### Mining Reward
 - Transaction Fees
+	- `total output - total input`
+	- higher fee = faster transaction
 - Block Reward
-
-___
-### Hash Power and Hash Rate
-
-
-___
-### Statistics
-
+	- reward for each verified transaction block
 
 ___
 ### Practical Implementation
 **[[ASIC Resistant PoW Algorithm]]**
-
+- Use a lot of memory (expensive to implement)
+- Aim is to give CPU and GPU mining a chance, going back to the original goal of “one-cpu-one-vote”
 
 **Hash Rate**
 
@@ -44,3 +40,11 @@ ___
 
 ___
 ### [[Bitcoin Mining Pool]]
+- Mining by yourself
+	- you might get $150,000 every 50 years on average, or $300,000 every few thousand years
+- Joining a mining pool “smooths out” your revenue stream
+	- Without affecting your average return
+- ![[Pasted image 20220618053304.png|500]]
+
+___
+
