@@ -59,24 +59,24 @@ ___
 - [ ] [[Anonymous Connections and Onion Routing]] <span style="color: white; background-color: red ; padding-left: 5px; padding-right: 5px; border: 1px solid red;">
 difficult 
 </span>
-- [ ] [[Blockchain as a service(BaaS)]] 
-- [ ] [[The Helium Network]]
-- [ ] [[Hashgraph]]
+- [x] [[Blockchain as a service(BaaS)]] 
+- [x] [[The Helium Network]]
+- [x] [[Hashgraph]]
 - [ ] [[COMS4507 - Mining Competition]]
-- [ ] [[Monero]]
+- [x] [[Monero]]
 - [ ] [[Comparative analysis of Android and iOS from security viewpoint]]
-- [ ] [[Sandwich Attacks - Analysis and Prevention]]
+- [x] [[Sandwich Attacks - Analysis and Prevention]]
 - [ ] [[Minesweeper - Crypto Mining]]
 - [ ] [[SSL TLS Attacks]]
-- [ ] [[The Anatomy of a Cryptocurrency Pump-and-Dump Scheme]]
+- [x] [[The Anatomy of a Cryptocurrency Pump-and-Dump Scheme]]
 - [ ] [[Penetration Testing]]
 - [ ] [[Password Cracking, Approaches and Tools]]
 - [ ] [[FlashBoys 2.0]]
-- [ ] [[Ethereum P2P Networking Layer]]
+- [x] [[Ethereum P2P Networking Layer]] ✅ 2022-06-18
 - [ ] [[NFTs]]
 - [ ] [[Polkadot]]
 - [ ] [[50 Ways to Leak Your Data]]
-- [ ] [[IPFS]]
+- [x] [[IPFS]] ✅ 2022-06-18
 - [ ] [[How to share a secret]]
 - [ ] [[Intrusion Detection Systems]]
 - [ ] [[Honeywords]]

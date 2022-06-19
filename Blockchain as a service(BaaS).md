@@ -3,9 +3,9 @@
 - [ ] **Explain flaw in current implementation**
 
 - [ ] **Explain aim of new technology**
+Blockchain as a service (BaaS) is a blockchain service offering that allows customers to use cloud-based services to develop, use and host their blockchain apps, functions and smart contracts.
 
 - [ ] **Key features of new technology**
-
 - cloud storage
 - dbms
 - user auth
@@ -23,5 +23,6 @@
 - Azure
 
 - [ ] **Advantages of new technology**
+- self hosted = higher cost (instead pay to use)
 
 - [ ] **Limitations/Disadvantages of new technology**
